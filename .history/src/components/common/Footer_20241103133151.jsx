@@ -18,7 +18,7 @@ const Footer = () => {
           <span>
             Developed by
             {' '}
-            <a href="https://github.com/jgudo">mahsa hejazi</a>
+            <a href="https://github.com/jgudo">Mahsa Hejazi/a>
           </span>
         </strong>
       </div>
